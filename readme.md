@@ -1,5 +1,7 @@
 # Wat
 
+[![Join the chat at https://gitter.im/dthree/wat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dthree/wat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/dthree/wat.svg)](https://travis-ci.org/dthree/wat) [![Build Status](https://img.shields.io/badge/gitter-join%20chat-brightgreen.svg)](https://gitter.im/dthree/wat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://img.shields.io/npm/v/wat.svg)](https://www.npmjs.com/package/wat)
 
 > Your syntax nightmares are over.
